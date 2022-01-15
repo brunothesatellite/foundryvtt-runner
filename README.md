@@ -18,6 +18,3 @@ Exemple for HTTP:\
 ## 3. Build
 You can build this docker image yourself with the following command :\
 `docker build -t foundryvtt-runner:latest .`
-
-## 4. Run on Synology Docker
-Coming soon...
