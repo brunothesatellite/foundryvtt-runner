@@ -1,9 +1,8 @@
-# Foundryvtt-runner 
-Foundry Virtual Tabletop - Easy docker runner
-Runner DockerImage for Foundry Virtual Tabletop 
+# Foundry Virtual Tabletop Runner 
+Easy docker image for [Foundry Virtual Tabletop](https://foundryvtt.com/).
 
 ## 1. Usage
-This repository aims to describe a docker image intended to be used as "a plug'n'play" runtime environment for [Foundry Virtual Tabletop ©](https://foundryvtt.com/).
+This repository aims to describe a docker image intended to be used as "a plug'n'play" runtime environment for [Foundry Virtual Tabletop](https://foundryvtt.com/).
 
 ## 2. Run
 This is image exposes the folling volumes :
