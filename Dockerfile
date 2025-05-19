@@ -1,4 +1,4 @@
-FROM node:18-alpine
+FROM node:20-alpine
 
 # DEFAULT PORT FOR FOUNDRY VTT
 EXPOSE 30000
